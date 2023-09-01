@@ -7,3 +7,5 @@
 </a>
 <a href="https://github.com/leandrohbar">
    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrohbar&show_icons=true&theme=merko&bg_color=00000000&hide_border=True&include_all_commits=True"/>
+</a>
+
