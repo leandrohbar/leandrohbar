@@ -3,12 +3,12 @@
 - **💻I’m currently learning AI & Machine Learning, Python, Computer Vision.**
 <div style="display: inline_block"><br>
   <a href="https://python.org" > <img align="center" alt="Leandro-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
-   <img align="center" alt="Leandro-cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-   <img align="center" alt="Leandro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-   <img align="center" alt="Leandro-swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
-   <img align="center" alt="Leandro-bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-   <img align="center" alt="Leandro-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-   <img align="center" alt="Leandro-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <a href="https://cplusplus.com/" > <img align="center" alt="Leandro-cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a>
+   <a href="https://www.javascript.com/" ><img align="center" alt="Leandro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></a>
+  <a href="https://www.swift.org/" > <img align="center" alt="Leandro-swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"></a>
+  <a href="https://www.gnu.org/software/bash/" > <img align="center" alt="Leandro-bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"></a>
+  <a href="https://www.linux.org/" > <img align="center" alt="Leandro-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a>
+  <a href="https://git-scm.com/" > <img align="center" alt="Leandro-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
 </div>
 
 ---
