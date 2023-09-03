@@ -1,6 +1,10 @@
 
-### Hey there, my name is Leandro! 👨🏾‍💻
+# Hey there, I'm Leandro! 👨🏾‍💻
 - **💻I’m currently learning AI & Machine Learning, Python, Computer Vision.**
+- **💬 Ask me about Anything**
+- **📫 How to reach me**
+**leandroh_99@outlook.com** <a href="mailto:leandroh_99@outlook.com"> </a>
+
 <div style="display: inline_block"><br>
   <a href="https://python.org" > <img align="center" alt="Leandro-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
   <a href="https://cplusplus.com/" > <img align="center" alt="Leandro-cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a>
