@@ -1,3 +1,4 @@
+<a href="https://www.codefactor.io/repository/github/leandrohbar/python"><img src="https://www.codefactor.io/repository/github/leandrohbar/python/badge" alt="CodeFactor" /></a>
 ### Hey there, my name is Leandro! 👨🏾‍💻
 - **💻I’m currently learning AI & Machine Learning, Python, Computer Vision.**
 <div style="display: inline_block"><br>
