@@ -1,8 +1,8 @@
-<a href="https://www.codefactor.io/repository/github/leandrohbar/python"><img src="https://www.codefactor.io/repository/github/leandrohbar/python/badge" alt="CodeFactor" /></a>
+
 ### Hey there, my name is Leandro! 👨🏾‍💻
 - **💻I’m currently learning AI & Machine Learning, Python, Computer Vision.**
 <div style="display: inline_block"><br>
-   <img align="center" alt="Leandro-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <a href="https://python.org" > <img align="center" alt="Leandro-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
    <img align="center" alt="Leandro-cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
    <img align="center" alt="Leandro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
    <img align="center" alt="Leandro-swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
@@ -12,6 +12,8 @@
 </div>
 
 ---
+
+<a href="https://www.codefactor.io/repository/github/leandrohbar/python"><img src="https://www.codefactor.io/repository/github/leandrohbar/python/badge" alt="CodeFactor" /></a>
 
 <a href="https://github.com/leandrohbar">
 <img height=180 src="https://github-readme-stats.vercel.app/api?username=leandrohbar&show_icons=true&theme=merko&bg_color=00000000&hide_border=True&include_all_commits=True"/>
