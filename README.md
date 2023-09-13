@@ -20,8 +20,8 @@
 <a href="https://www.codefactor.io/repository/github/leandrohbar/python"><img src="https://www.codefactor.io/repository/github/leandrohbar/python/badge" alt="CodeFactor" /></a>
 
 <a href="https://github.com/leandrohbar?tab=repositories">
-<img height=180 src="https://github-readme-stats.vercel.app/api?username=leandrohbar&show_icons=true&theme=merko&bg_color=00000000&hide_border=True&include_all_commits=True"/>
-<img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrohbar&show_icons=true&theme=merko&bg_color=00000000&hide_border=True&include_all_commits=True"/>
+<img height=220 src="https://github-readme-stats.vercel.app/api?username=leandrohbar&show_icons=true&theme=merko&bg_color=00000000&hide_border=True&include_all_commits=True"/>
+<img height=220 src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrohbar&show_icons=true&theme=merko&bg_color=00000000&hide_border=True&include_all_commits=True"/>
 </a>
 
 ---
