@@ -5,6 +5,12 @@
 - **📫 How to reach me**
 **leandroh_99@outlook.com** <a href="mailto:leandroh_99@outlook.com"> </a>
 
+I am a professional with 6 years of experience in the metallurgical industry. I am now transitioning my career, directing my passion towards AI and data, seeking a new path in Artificial Intelligence (AI) and Machine Learning (ML).
+
+My goal is to apply my knowledge to develop AI/ML solutions that optimize processes and solve challenges.
+
+I am open to opportunities and connections in this exciting career transition journey. Let's build a smarter future together!
+
 <div style="display: inline_block"><br>
   <a href="https://python.org" > <img align="center" alt="Leandro-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
   <a href="https://cplusplus.com/" > <img align="center" alt="Leandro-cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a>
