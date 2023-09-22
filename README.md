@@ -23,6 +23,7 @@ I am open to opportunities and connections in this exciting career transition jo
 
 ---
 
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
 <a href="https://www.codefactor.io/repository/github/leandrohbar/python"><img src="https://www.codefactor.io/repository/github/leandrohbar/python/badge" alt="CodeFactor" /></a>
 
 <a href="https://github.com/leandrohbar?tab=repositories">
