@@ -27,8 +27,8 @@ I am open to opportunities and connections in this exciting career transition jo
 <a href="https://www.codefactor.io/repository/github/leandrohbar/python"><img src="https://www.codefactor.io/repository/github/leandrohbar/python/badge" alt="CodeFactor" /></a>
 
 <a href="https://github.com/leandrohbar?tab=repositories">
-<img height=180 width=500 src="https://github-readme-stats.vercel.app/api?username=leandrohbar&show_icons=true&theme=merko&bg_color=00000000&hide_border=True&hide_title=True&include_all_commits=True"/>
-<img height=180 width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrohbar&show_icons=true&theme=merko&bg_color=00000000&hide_title=True&hide_border=True&include_all_commits=True"/>
+<img height=210 src="https://github-readme-stats.vercel.app/api?username=leandrohbar&show_icons=true&theme=merko&bg_color=00000000&hide_border=True&hide_title=True&include_all_commits=True"/>
+<img height=210 src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrohbar&show_icons=true&theme=merko&bg_color=00000000&hide_title=True&hide_border=True&include_all_commits=True"/>
 </a>
 
 ---
