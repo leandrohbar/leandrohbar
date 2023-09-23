@@ -38,4 +38,5 @@ I am open to opportunities and connections in this exciting career transition jo
    <a href="https://www.twitter.com/leandroh_99" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
    <a href="mailto:leandroh_99@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
    <a href="https://instagram.com/leandrohbar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.dio.me/users/leandroh_99" target="_blank"><img src="https://img.shields.io/badge/DIO%20Profile%20-296622?style=for-the-badge" target="_blank"></a>
 </div>
