@@ -1,15 +1,17 @@
 
 # Hey there, I'm Leandro! 👨🏾‍💻
-- **💻I’m currently learning AI & Machine Learning, Python, Computer Vision.**
+- **💻 Backend development enthusiast, Python, Java & C#.**
 - **💬 Ask me about Anything**
 - **📫 How to reach me**
 **leandroh_99@outlook.com** <a href="mailto:leandroh_99@outlook.com"> </a>
 
-I am a professional with 6 years of experience in the metallurgical industry. I am now transitioning my career, directing my passion towards AI and data, seeking a new path in Artificial Intelligence (AI) and Machine Learning (ML).
+I am a professional with 6 years of experience in the metallurgical industry. Backend development enthusiast with a passion for translating logic into robust features.
 
-My goal is to apply my knowledge to develop AI/ML solutions that optimize processes and solve challenges.
+My technological journey spans the realm of programming with solid experience in Python, Java, and C# .NET. I'm driven by solving complex challenges and crafting scalable, efficient systems.
 
-I am open to opportunities and connections in this exciting career transition journey. Let's build a smarter future together!
+With a strong grasp of databases, API integration, and object-oriented development, I'm eager to contribute my expertise and drive successful projects.
+
+Let's build the future together!
 
 <div style="display: inline_block"><br>
   <a href="https://python.org" > <img align="center" alt="Leandro-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
