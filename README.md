@@ -5,13 +5,11 @@
 - **📫 How to reach me**
 **leandroh_99@outlook.com** <a href="mailto:leandroh_99@outlook.com"> </a>
 
-I am a professional with 6 years of experience in the metallurgical industry. Backend development enthusiast with a passion for translating logic into robust features.
+I am a professional with 6 years of experience in the metallurgical industry, now transitioning careers, a back-end development enthusiast with a passion for turning logic into robust functionalities.
 
-My technological journey spans the realm of programming with solid experience in Python, Java, and C# .NET. I'm driven by solving complex challenges and crafting scalable, efficient systems.
+My technological journey spans the programming world with solid experience in Python, Java, and C# .NET. I'm driven by solving complex challenges and creating scalable and efficient systems. With a strong understanding of databases, API integration, and object-oriented development, I am eager to contribute my expertise and drive successful projects.
 
-With a strong grasp of databases, API integration, and object-oriented development, I'm eager to contribute my expertise and drive successful projects.
-
-Let's build the future together!
+I am open to opportunities and connections in this exciting career transition journey. Let's build a smarter future together!
 
 <div style="display: inline_block"><br>
   <a href="https://python.org" > <img align="center" alt="Leandro-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
